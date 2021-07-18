@@ -1,5 +1,4 @@
 # LTTS_Step-in_Project_Titanic
-
 ## Kaggle Titanic Challenge
 Vigneshwar K <br>
 270403 <br>
